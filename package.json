@@ -1,0 +1,29 @@
+{
+  "name": "twtichbot",
+  "version": "1.0.0",
+  "description": "My testing area for my twitch bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captainbboy/TwtichBot.git"
+  },
+  "keywords": [
+    "TwitchBot",
+    "NodeJs",
+    "NodeJsTwitch",
+    "Twitch"
+  ],
+  "author": "captain_bboy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/captainbboy/TwtichBot/issues"
+  },
+  "homepage": "https://github.com/captainbboy/TwtichBot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "tmi.js": "^1.8.3"
+  }
+}
